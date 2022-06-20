@@ -26,7 +26,7 @@ function dataItemTemplate(item) {
   return (
     `<li class="cbss">
       <p class="important" >${item.C1}</p>
-      <p>${item.C2}</p>
+      <p class="important" >${item.C2}</p>
       <p>${item.C3}</p>
       <p>${item.C4}</p>
     </li>`
